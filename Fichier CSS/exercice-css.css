@@ -1,0 +1,37 @@
+* {
+	margin-left: 50;
+  margin-top: 10;
+  font-family: Verdana;
+	}
+
+
+h1#important
+  {
+    color:blue;
+  }
+
+h1#Timportant
+  {
+    color:red;
+  }
+
+h1#TTimportant
+  {
+    color:pink;
+  }
+
+#centre
+  {
+    text-align: center;
+  }
+
+#div-1
+
+{
+  position: relative;
+  background-color: grey;
+  color: white;
+  top: 20px;
+  left:50px;
+  width: 300;
+}
