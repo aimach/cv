@@ -1,0 +1,59 @@
+body
+{
+	background-color: grey;
+}
+
+.bloc
+{
+	top:50px;
+	left: 50px;
+    display:inline-block;
+    margin: 1em;
+    background-color: black;
+}
+
+#Titre
+{
+	position: absolute;
+}
+
+#Etatcivil
+{	
+}
+
+#Photo
+{
+    overflow: hidden;
+    border-radius: 50%;
+    width: 140;
+    height: 140px;
+    border: solid 4px white;
+
+}
+
+#Formations
+{
+	position: absolute;
+	display: none;
+}
+
+#Formations2
+{
+	position: absolute;
+	left: 50;
+	display: none;
+}
+
+#Experiences
+{
+	position: absolute;
+	top: ;
+	display: none;
+}
+
+#Experiences2
+{
+	position: absolute;
+	left: 50;
+	display: none;
+}
